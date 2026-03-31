@@ -20,7 +20,6 @@ Estrutura de Dados
 Cada livro possui os seguintes campos:
 
 - Título
-- Autor
 - Descrição
 - Status (LIDO, LENDO, QUERO_LER)
 
